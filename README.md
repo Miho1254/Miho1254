@@ -1,16 +1,17 @@
 ### Hi there 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?lines=I'm+Quang+Hi%E1%BB%83n;but+you+can+call+me+as+Miho)](https://git.io/typing-svg)
+#### I'm a student from Vietnam
 
-<!--
-**Miho1254/Miho1254** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm just learning how to code and making some stuff projects
 
-Here are some ideas to get you started:
+Skills: JS / NODE.JS / HTML / CSS / C# / PYTHON
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning C#  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Miho1254)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/WangHien.1254)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/19034965)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCKK-JOiOsxfNh9ZFJnaiZfQ)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/ElainaWithGun)  
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Miho1254&show_icons=true)  
+
+![Profile views](https://gpvc.arturio.dev/Miho1254)  
+
