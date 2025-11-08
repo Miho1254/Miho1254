@@ -1,5 +1,3 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Space+Grotesk&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Miho+👋;I'm+a+Full+Stack+Developer;I+build+things+for+the+web.;...from+Ho+Chi+Minh+City." alt="Typing SVG" /></a>
-
 <p align="center">
   <em>IT student who hates Math/Physics/Chem. Huge fan of <b>Orangestar</b> and <b>Guiano</b>.</em><br>
   <em>My motto: "Full-stack = chatGPT for frontend!"</em>
