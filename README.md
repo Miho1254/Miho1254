@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=3399FF&center=true&vCenter=true&width=900&height=120&lines=私はミホです！;I+AM+MIHO.dev;Full-stack+Developer;Milk+Tea+Addict+🧋" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=50&pause=1000&color=3399FF&center=true&vCenter=true&width=900&height=120&lines=%E7%A7%81%E3%81%AF%E3%83%9F%E3%83%9B%E3%81%A7%E3%81%99%EF%BC%81;I+AM+MIHO.dev;Full-stack+Developer;Milk+Tea+Addict+%F0%9F%A7%8B" alt="Typing SVG" />
   </a>
 </p>
 
