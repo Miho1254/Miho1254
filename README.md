@@ -22,8 +22,8 @@
 ### 🚩 Side Quests (Achievements)
 
 * 🏆 **Top 10 Finalist - YDCC Hackathon 2025** (Agri-Loop AI)
-* 🚀 **Event System:** Generated **~50,000,000 VNĐ** in revenue (Deno + Prisma).
-* ⚔️ **ICPC Vietnam 2025 Regional Contestant**.
+* 🚀 **World Simp & Friends:** Generated **~100,000,000 VNĐ** in income flow (Deno + Prisma).
+* ⚔️ **ICPC Vietnam 2025 National Contestant**.
 * 🥈 **Silver Medal:** HCMC Student Skills 2024.
 
 ---
