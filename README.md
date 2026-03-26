@@ -12,30 +12,30 @@
 
 ---
 
-### 🌊 "The World I See"
-> **IT Student @ Thuy Loi University (TLU).** > Logic lover (despite my mutual beef with Math, Physics, and Chemistry).  
+### "The World I See"
+> **IT @ Thuy Loi University (TLU).** >.  
 > Consuming milk tea by the liter.  
-> Music taste: **Orangestar & Guiano.**
+> Music taste: **Jpop & Folk song.**
 
 ---
 
-### 🚩 Side Quests (Achievements)
+### (Achievements)
 
-* 🏆 **Top 10 Finalist - YDCC Hackathon 2025** (Agri-Loop AI)
-* 🚀 **World Simp & Friends:** Generated **~100,000,000 VNĐ** in income flow (Deno + Prisma).
-* ⚔️ **ICPC Vietnam 2025 National Contestant**.
-* 🥈 **Silver Medal:** HCMC Student Skills 2024.
+* **Top 10 Finalist - YDCC Hackathon 2025** (Agri-Loop AI)
+* **World Simp & Friends:** Generated **~100,000,000 VNĐ** in income flow (Hono + ReactJS + Cloudflare).
+* **ICPC Vietnam 2025 National Contestant**.
+* **Silver Medal:** HCMC Student Skills 2024.
 
 ---
 
-### 🖥️ Tech Stack & Stats
+### Tech Stack & Stats
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,deno,php,tailwind,postgres,docker,cloudflare,linux,prisma,cpp" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,php,tailwind,postgres,docker,cloudflare,linux,prisma" />
 </p>
 
 ---
 
-### ☁️ Reach me in the sky
+### Reach me here
 <p align="center">
 <a href="https://miho.worldsimp.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=about.me&logoColor=white" /></a>
 <a href="https://linkedin.com/in/miho1254"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -43,5 +43,5 @@
 </p>
 
 <p align="right">
-  <i>"Powered by Milk Tea."</i> 🧋
+  <i>"Powered by Milk Tea."</i>
 </p>
