@@ -1,4 +1,4 @@
-# Miho
+# Miho - Đặng Quang Hiển
 
 **Lead Designer at [World Simp & Friends](https://worldsimp.com)** · Full-stack Developer
 
