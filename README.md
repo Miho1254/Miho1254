@@ -1,6 +1,6 @@
 # Miho — Đặng Quang Hiển
 
-**Lead Designer at [World Simp & Friends](https://worldsimp.com)** · Product Engineer
+**Product Engineer at [World Simp & Friends](https://worldsimp.com)** 
 
 I design products, build systems, and turn operational problems into software.
 
