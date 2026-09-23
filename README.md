@@ -1,50 +1,62 @@
+# Miho
 
-**Lead Designer at [World Simp & Friends](https://worldsimp.com)** — working across product design, frontend engineering, and the systems behind community-driven products.
+**Lead Designer at [World Simp & Friends](https://worldsimp.com)** · Full-stack Developer
 
-Currently studying **Information Technology at Thuy Loi University**.
+I design digital products, build interfaces, and work on the systems behind community-driven platforms.
 
-`DESIGN` `PRODUCT` `FRONTEND` `SYSTEMS`
+`DESIGN` · `PRODUCT` · `FRONTEND` · `SYSTEMS`
 
-<br>
+---
 
-## Selected work
+## Selected Work
 
-### World Simp & Friends (2022 - Now)
+### World Simp & Friends
 
 **Lead Designer · Product / Web**
+`2022 — Present`
 
-Designing and building products used across the WS&F community ecosystem.
+Designing and building products across the WS&F community ecosystem.
 
-Worked across **product direction, UI/UX, event systems, commerce, and internal tooling**, with platforms supporting approximately **₫150M+ in revenue flow**.
+My work spans **product direction, UI/UX, event systems, commerce, and internal tooling**, with platforms supporting **₫150M+ in revenue flow**.
 
-[worldsimp.com ↗](https://worldsimp.com)
-
-<br>
+→ [worldsimp.com](https://worldsimp.com)
 
 ### Agri-Loop AI
 
-**YDCC Hackathon 2025 · Top 10 Finalist**
+**Top 10 Finalist · YDCC Hackathon 2025**
 
-AI-assisted agriculture project developed for the **YDCC Hackathon 2025**.
+An AI-assisted agriculture project developed for **YDCC Hackathon 2025**.
 
-Reached the final Top 10.
+Reached the **Top 10 Finals** as part of the DeltaNext team.
 
-<br>
+---
+
+## Education
+
+### Thuy Loi University - Southern Campus
+
+**Information Technology** `2025 — Present`
+
+Currently pursuing my undergraduate studies in Information Technology.
+
+---
 
 ## Recognition
 
-**2025** <br>
-- ICPC Vietnam — National Contestant (TLU_ThiNghe1st) <br>
-- YDCC Hackathon — Top 10 Finalist (DeltaNext project)
+### 2025
 
-**2024** <br>
-- HCMC Student Skills — Silver Medal
+* **ICPC Vietnam National Contest** — Contestant, `TLU_ThiNghe1st`
+* **YDCC Hackathon** — Top 10 Finalist, DeltaNext
 
-<br>
+### 2024
+
+* **HCMC Student Skills** — Silver Medal
+
+---
 
 ## Toolkit
 
-**Build**
+**Frontend & Application**
 
 `TypeScript` · `JavaScript` · `React` · `Hono` · `Node.js`
 
@@ -56,22 +68,16 @@ Reached the final Top 10.
 
 `Product Design` · `UI/UX` · `Design Systems`
 
-<br>
+---
 
 ## Elsewhere
 
-[Portfolio](https://miho.worldsimp.com) ↗
-[LinkedIn](https://linkedin.com/in/miho1254) ↗
-[Telegram](https://t.me/Miho1011) ↗
-
-<br>
+[Portfolio](https://miho.worldsimp.com) ·
+[LinkedIn](https://linkedin.com/in/miho1254) ·
+[Telegram](https://t.me/Miho1011)
 
 ---
 
-<sub>
-J-pop, folk songs, and an unreasonable amount of milk tea.
-</sub>
+<sub>J-pop, folk songs, and an unreasonable amount of milk tea.</sub>
 
-<sub>
-© MIHO · DESIGN / ENGINEERING / COMMUNITY
-</sub>
+<sub>© MIHO · DESIGN / ENGINEERING / COMMUNITY</sub>
