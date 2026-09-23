@@ -62,13 +62,10 @@ Undergraduate student in Information Technology.
 ## Toolkit
 
 **Frontend & Application**
-`TypeScript` · `JavaScript` · `React` · `Hono` · `Node.js`
+`TypeScript`· `React` · `HonoJS` · `Node.js`
 
 **Data & Infrastructure**
 `PostgreSQL` · `Prisma` · `Cloudflare` · `Docker` · `Linux`
-
-**Design**
-`Product Design` · `UI/UX` · `Design Systems`
 
 ## Elsewhere
 
