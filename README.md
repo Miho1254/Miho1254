@@ -1,6 +1,6 @@
 # Miho — Đặng Quang Hiển
 
-**Product Engineer at [World Simp & Friends](https://worldsimp.com)** 
+**Product Engineer at [World Simp & Friends](https://worldsimp.com)**
 
 I design products, build systems, and turn operational problems into software.
 
@@ -13,9 +13,9 @@ I design products, build systems, and turn operational problems into software.
 **Lead Designer · Product / Web**
 `2022 — Present`
 
-Designing and building products across the WS&F community ecosystem.
+I work on the products and internal systems used to run WS&F — from ticketing and event operations to commerce and team tooling.
 
-My work spans **product direction, UI/UX, event systems, commerce, and internal tooling**, with platforms supporting **₫150M+ in revenue flow**.
+I contribute across **product direction, UI/UX, engineering, and operations**, with systems supporting **₫150M+ in revenue flow**.
 
 → [worldsimp.com](https://worldsimp.com)
 
@@ -23,7 +23,7 @@ My work spans **product direction, UI/UX, event systems, commerce, and internal 
 
 **YDCC Hackathon 2025 · Top 10 Finalist**
 
-An AI-assisted agriculture project developed as part of **DeltaNext** for YDCC Hackathon 2025.
+Built **Agri-Loop AI** with DeltaNext for YDCC Hackathon 2025.
 
 Reached the **Top 10 Finals**.
 
@@ -33,7 +33,7 @@ Reached the **Top 10 Finals**.
 
 **Actor–Critic Reinforcement Learning · 2025–2026**
 
-Research on adaptive load balancing in **Software-Defined Networks (SDN)** using Actor–Critic reinforcement learning, with a focus on the trade-off between network performance and policy adaptability.
+Research on adaptive load balancing in **Software-Defined Networks (SDN)** using Actor–Critic reinforcement learning, focusing on the trade-off between network performance and policy adaptability.
 
 Presented at the **National Conference on Information and Communication Technology (ICT)** — May 2026.
 
@@ -45,8 +45,6 @@ Presented at the **National Conference on Information and Communication Technolo
 
 **Information Technology**
 `2025 — Present`
-
-Undergraduate student in Information Technology.
 
 ## Recognition
 
@@ -61,8 +59,8 @@ Undergraduate student in Information Technology.
 
 ## Toolkit
 
-**Frontend & Application**
-`TypeScript`· `React` · `HonoJS` · `Node.js`
+**Application**
+`TypeScript` · `React` · `Hono` · `Node.js`
 
 **Data & Infrastructure**
 `PostgreSQL` · `Prisma` · `Cloudflare` · `Docker` · `Linux`
