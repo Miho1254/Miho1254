@@ -79,5 +79,3 @@ Currently pursuing my undergraduate studies in Information Technology.
 ---
 
 <sub>J-pop, folk songs, and an unreasonable amount of milk tea.</sub>
-
-<sub>© MIHO · DESIGN / ENGINEERING / COMMUNITY</sub>
